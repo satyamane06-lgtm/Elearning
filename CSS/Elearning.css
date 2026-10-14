@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+    padding: 0pa;
+    overflow-x: hidden;
+}
+/* 1st Section Start */
+.sebg{
+    background-color: rgb(75, 75, 199);
+}
+/* 1st Section End */
+/* 2nd Section Start */
+.seimg{
+    background-image: url("/Illustration/pretty-schoolgirl.png");
+    width: 400px;
+    height: 650px;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+/* 2nd Section End */
+/* 3rd Section Start */
+.thtex{
+    font-size: 30px;
+    font-family:'Times New Roman', Times, serif;
+}
+.zigzag{
+    width: 100%;
+    height: 2px;
+    background: repeating-radial-gradient(circle at 10px -5px,
+            black 10px,
+            transparent 11px);
+    background-size: 20px 20px;
+}
+/* 3rd Section End */
